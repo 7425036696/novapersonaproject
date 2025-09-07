@@ -10,7 +10,7 @@ Pro tip: A ⭐ star here costs you nothing but means everything. 😉
 
 ## Demo / Live Site
 
-Visit the live demo: [NovaPersona](https://iwilladdit/)
+Visit the live demo: [NovaPersona](https://novapersona-eight.vercel.app/)
 
 ---
 
