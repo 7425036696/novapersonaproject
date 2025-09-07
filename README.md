@@ -38,8 +38,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/7425036696/NovaPersona
-   cd chhaya-persona
+   git clone https://github.com/7425036696/novapersonaproject
+   cd novapersonaproject
 Install dependencies:
 
 bash
